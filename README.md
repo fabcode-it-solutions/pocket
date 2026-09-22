@@ -88,9 +88,3 @@ This repository demonstrates end-to-end mobile app development capability, inclu
 - Implementing offline-first data architecture with local persistence and sync
 - Structuring a production-grade Redux + RTK Query data layer
 - Delivering a polished, native-feeling experience across iOS, Android, and Web from a single codebase
-
----
-
-## Let's Work Together
-
-Interested in a similar mobile or cross-platform app for your business? Feel free to reach out — I'd be glad to discuss your project and how this same approach can be applied to it.
